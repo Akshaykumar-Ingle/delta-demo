@@ -6,3 +6,7 @@ Shradha Khapra
 
 # Student
 Delta Student
+
+# Location
+Pune
+
